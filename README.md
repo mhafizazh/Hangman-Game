@@ -15,5 +15,5 @@ Clone the repository: git clone https://github.com/mhafizazh/Hangman-Game
 Navigate to the project directory: cd hangman
 Run the game: python main.py
 
-🎮 Demo:
+🎮 <a href="https://youtu.be/bHeC3d7Gafc">Demo</a>:
 See the game in action! Watch the demo video to get a preview of how the Terminal Hangman Game works.
